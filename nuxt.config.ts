@@ -7,5 +7,9 @@ export default defineNuxtConfig({
     '/': { prerender: true }
   },
 
+  build: {
+    transpile: ['globby'], // Ajoutez 'globby' à la liste des dépendances à transpiler
+  },
+
   compatibilityDate: '2024-08-27'
 })

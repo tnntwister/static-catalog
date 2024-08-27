@@ -1,0 +1,3 @@
+##  MOSAIQ  INT 100 J 3030 CAOLINO MARCA CORONA
+
+undefined

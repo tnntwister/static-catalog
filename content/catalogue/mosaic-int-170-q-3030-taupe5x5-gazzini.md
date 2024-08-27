@@ -1,0 +1,3 @@
+##  MOSAIC  INT 170 Q 3030 TAUPE 5x5 GAZZINI
+
+undefined

@@ -1,4 +1,4 @@
-<template>
+<template> 
   <main>
     <ContentDoc />
   </main>
