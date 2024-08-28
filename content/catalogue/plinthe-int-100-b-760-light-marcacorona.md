@@ -1,3 +1,0 @@
-##  PLINTHE  INT  100 B 760 LIGHT MARCA CORONA
-
-undefined

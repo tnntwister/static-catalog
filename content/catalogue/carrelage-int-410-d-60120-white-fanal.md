@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 D 60120 WHITE FANAL
-
-undefined

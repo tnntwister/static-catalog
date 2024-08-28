@@ -1,3 +1,0 @@
-##  PLINTHE  INT 180 C 860 GRIGIO CRISTACER
-
-undefined

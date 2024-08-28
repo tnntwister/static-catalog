@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 A 60120 FUSAIN SIL
-
-undefined

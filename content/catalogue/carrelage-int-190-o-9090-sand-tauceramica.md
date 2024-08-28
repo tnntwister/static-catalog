@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 O 9090 SAND TAU CERAMICA
-
-undefined

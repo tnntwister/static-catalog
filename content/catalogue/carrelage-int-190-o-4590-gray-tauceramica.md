@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 O 4590 GRAY TAU CERAMICA
-
-undefined

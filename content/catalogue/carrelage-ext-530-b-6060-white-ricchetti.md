@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 530 B 6060 WHITE RICCHETTI
-
-undefined

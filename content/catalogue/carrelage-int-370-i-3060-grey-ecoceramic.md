@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 I 3060 GREY ECOCERAMIC
-
-undefined

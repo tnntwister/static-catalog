@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 T 3060 ST REM SIL
-
-undefined

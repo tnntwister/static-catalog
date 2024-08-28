@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 AA 60120 TAUPE RONDINE
-
-undefined

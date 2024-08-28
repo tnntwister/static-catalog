@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 AA 6060 DARK RONDINE
-
-undefined

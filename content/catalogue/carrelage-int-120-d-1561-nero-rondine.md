@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 D 1561 NERO RONDINE
-
-undefined

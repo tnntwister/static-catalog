@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 170 T 6060 IVORY GAZZINI
-
-undefined

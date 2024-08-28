@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 210 G 20120 ROBLE ROCA
-
-undefined

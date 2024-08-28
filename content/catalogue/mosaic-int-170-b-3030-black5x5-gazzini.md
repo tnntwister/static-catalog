@@ -1,3 +1,0 @@
-##  MOSAIC  INT  170 B 3030 BLACK 5X5 GAZZINI
-
-undefined

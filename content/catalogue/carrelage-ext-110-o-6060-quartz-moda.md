@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 110 O 6060 QUARTZ MODA
-
-undefined

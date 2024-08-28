@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 480 J 60120 ANTRACIT CIFRE
-
-undefined

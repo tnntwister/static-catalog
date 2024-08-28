@@ -1,3 +1,0 @@
-##  PLINTHE  INT 100 I 760 ARGENTO MARCA CORONA
-
-undefined

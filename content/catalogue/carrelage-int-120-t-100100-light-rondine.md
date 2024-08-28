@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 T 100100 LIGHT RONDINE
-
-undefined

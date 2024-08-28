@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  170 J 4161 BEIGE GAZZINI
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  170 G 6060 BEIGE GAZZINI
-
-undefined

@@ -1,3 +1,0 @@
-##  PLINTHE  INT  140 O 960 SABBIA ASCOT
-
-undefined

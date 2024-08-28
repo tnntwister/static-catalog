@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 100 Y 3060 CLAY MARCA CORONA
-
-undefined

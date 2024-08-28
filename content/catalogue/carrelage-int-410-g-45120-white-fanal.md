@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 G 45120 WHITE FANAL
-
-undefined

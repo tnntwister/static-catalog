@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 X 8080 TAUPE RONDINE
-
-undefined

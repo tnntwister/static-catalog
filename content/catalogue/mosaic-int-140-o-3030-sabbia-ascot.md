@@ -1,3 +1,0 @@
-##  MOSAIC  INT  140 O 3030 SABBIA ASCOT
-
-undefined

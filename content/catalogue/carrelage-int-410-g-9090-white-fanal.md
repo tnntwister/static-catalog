@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 G 9090 WHITE FANAL
-
-undefined

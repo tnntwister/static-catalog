@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 W 24120 ECRU RONDINE
-
-undefined

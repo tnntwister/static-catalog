@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 Y 3360 GREY CRISTACER
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 140 B 6060 GRIGIO ASCOT
-
-undefined

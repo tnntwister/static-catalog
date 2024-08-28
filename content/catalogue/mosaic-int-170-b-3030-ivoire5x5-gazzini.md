@@ -1,3 +1,0 @@
-##  MOSAIC  INT  170 B 3030 IVOIRE 5x5 GAZZINI
-
-undefined

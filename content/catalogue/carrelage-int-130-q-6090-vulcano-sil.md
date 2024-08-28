@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 Q 6090 VULCANO SIL
-
-undefined

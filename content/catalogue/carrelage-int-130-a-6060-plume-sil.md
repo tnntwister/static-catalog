@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 A 6060 PLUME SIL
-
-undefined

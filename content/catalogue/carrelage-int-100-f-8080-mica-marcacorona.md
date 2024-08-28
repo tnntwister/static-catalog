@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 100 F 8080 MICA MARCA CORONA
-
-undefined

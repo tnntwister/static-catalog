@@ -1,3 +1,0 @@
-##  PLINTHE  INT 170 Q 560 WHITE GAZZINI
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 200 K 6060 GREY FLAVIKER
-
-undefined

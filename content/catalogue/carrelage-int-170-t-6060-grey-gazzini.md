@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 T 6060 GREY GAZZINI
-
-undefined

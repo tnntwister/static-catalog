@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 530 B 60120 DOVE RICCHETTI
-
-undefined

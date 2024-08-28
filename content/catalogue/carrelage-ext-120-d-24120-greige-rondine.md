@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 120 D 24120 GREIGE RONDINE
-
-undefined

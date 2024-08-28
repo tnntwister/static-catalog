@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  100 B 6060 LIGHT MARCA CORONA
-
-undefined

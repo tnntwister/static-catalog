@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 480 C 20120 GREY CIFRE
-
-undefined

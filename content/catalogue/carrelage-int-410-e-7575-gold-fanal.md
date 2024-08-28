@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 E 7575 GOLD FANAL
-
-undefined

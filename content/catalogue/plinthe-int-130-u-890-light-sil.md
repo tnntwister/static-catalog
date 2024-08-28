@@ -1,3 +1,0 @@
-##  PLINTHE  INT 130 U 890 LIGHT SIL
-
-undefined

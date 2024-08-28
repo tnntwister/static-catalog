@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 Q 3060 WHITE GAZZINI
-
-undefined

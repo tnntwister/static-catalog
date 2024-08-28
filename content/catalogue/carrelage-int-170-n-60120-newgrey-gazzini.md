@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 N 60120 NEW GREY GAZZINI 
-
-undefined

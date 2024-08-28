@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 A 6060 PLOMB SIL
-
-undefined

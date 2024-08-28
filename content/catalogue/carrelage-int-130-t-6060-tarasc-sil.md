@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 T 6060 TARASC SIL
-
-undefined

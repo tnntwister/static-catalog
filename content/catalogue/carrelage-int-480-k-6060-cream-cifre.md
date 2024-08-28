@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 480 K 6060 CREAM CIFRE
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 H 6060 TAN TAU CERAMICA
-
-undefined

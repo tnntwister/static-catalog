@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 100 B 6060 DARK MARCA CORONA
-
-undefined

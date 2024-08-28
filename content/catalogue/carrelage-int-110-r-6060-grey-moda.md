@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  110 R 6060 GREY MODA
-
-undefined

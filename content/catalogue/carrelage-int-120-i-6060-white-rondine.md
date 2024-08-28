@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 I 6060 WHITE RONDINE 
-
-undefined

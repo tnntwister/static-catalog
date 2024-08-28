@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 140 R 75150 CORTEN ASCOT
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 R 24150 OAK RONDINE
-
-undefined

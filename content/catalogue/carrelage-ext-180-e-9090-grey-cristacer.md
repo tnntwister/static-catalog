@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 E 9090 GREY CRISTACER
-
-undefined

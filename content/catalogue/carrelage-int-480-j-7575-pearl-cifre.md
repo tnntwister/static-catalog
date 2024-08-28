@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 480 J 7575 PEARL CIFRE
-
-undefined

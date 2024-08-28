@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 B 7575 ICEBERG FANAL
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 T 6090 TARASC SIL
-
-undefined

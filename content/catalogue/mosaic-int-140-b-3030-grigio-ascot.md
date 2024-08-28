@@ -1,3 +1,0 @@
-##  MOSAIC  INT  140 B 3030 GRIGIO ASCOT
-
-undefined

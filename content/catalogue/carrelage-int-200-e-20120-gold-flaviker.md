@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 200 E 20120 GOLD FLAVIKER
-
-undefined

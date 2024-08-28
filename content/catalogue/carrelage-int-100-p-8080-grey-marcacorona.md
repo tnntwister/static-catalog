@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 100 P 8080 GREY MARCA CORONA
-
-undefined

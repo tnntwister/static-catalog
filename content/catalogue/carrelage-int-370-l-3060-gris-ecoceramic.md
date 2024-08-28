@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 L 3060 GRIS ECOCERAMIC
-
-undefined

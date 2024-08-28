@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 O 3060 GRAY TAU CERAMICA
-
-undefined

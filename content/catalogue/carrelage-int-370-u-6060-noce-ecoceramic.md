@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 U 6060 NOCE ECOCERAMIC
-
-undefined

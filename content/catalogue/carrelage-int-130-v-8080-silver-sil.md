@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 V 8080 SILVER SIL
-
-undefined

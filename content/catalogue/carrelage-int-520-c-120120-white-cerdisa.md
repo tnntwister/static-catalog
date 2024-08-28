@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 520 C 120120 WHITE CERDISA
-
-undefined

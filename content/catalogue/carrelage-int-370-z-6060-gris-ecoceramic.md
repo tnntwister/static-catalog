@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 Z 6060 GRIS ECOCERAMIC
-
-undefined

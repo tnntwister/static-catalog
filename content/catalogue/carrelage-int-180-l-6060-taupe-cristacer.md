@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 L 6060 TAUPE CRISTACER
-
-undefined

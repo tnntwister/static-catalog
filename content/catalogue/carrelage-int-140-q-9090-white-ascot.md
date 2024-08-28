@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 140 Q 9090 WHITE ASCOT
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  140 L 6060 IVOIRE ASCOT
-
-undefined

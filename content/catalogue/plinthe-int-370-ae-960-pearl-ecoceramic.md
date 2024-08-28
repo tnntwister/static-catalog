@@ -1,3 +1,0 @@
-##  PLINTHE  INT 370 AE 960 PEARL ECOCERAMIC
-
-undefined

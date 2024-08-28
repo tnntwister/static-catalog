@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 I 6060 BEIGE CRISTACER
-
-undefined

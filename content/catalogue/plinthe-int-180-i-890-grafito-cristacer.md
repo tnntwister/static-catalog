@@ -1,3 +1,0 @@
-##  PLINTHE  INT 180 I 890 GRAFITO CRISTACER
-
-undefined

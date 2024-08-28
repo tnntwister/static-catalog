@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 V 9090 SILVER SIL
-
-undefined

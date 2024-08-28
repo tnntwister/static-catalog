@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 H 120120 GRIGIO SIL
-
-undefined

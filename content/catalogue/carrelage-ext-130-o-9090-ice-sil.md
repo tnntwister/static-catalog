@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 O 9090 ICE SIL
-
-undefined

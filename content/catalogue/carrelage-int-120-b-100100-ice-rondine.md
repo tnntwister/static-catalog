@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 B 100100 ICE RONDINE
-
-undefined

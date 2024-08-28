@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 H 6060 SAND TAU CERAMICA
-
-undefined

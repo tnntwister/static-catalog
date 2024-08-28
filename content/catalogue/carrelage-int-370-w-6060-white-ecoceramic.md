@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  370 W 6060 WHITE ECOCERAMIC
-
-undefined

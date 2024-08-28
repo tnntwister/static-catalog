@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 200 K 6060 BLUE FLAVIKER
-
-undefined

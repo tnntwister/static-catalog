@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 530 D 3060 MEDEA RICCHETTI
-
-undefined

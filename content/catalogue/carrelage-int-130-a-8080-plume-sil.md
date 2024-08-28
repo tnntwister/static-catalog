@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 A 8080 PLUME SIL
-
-undefined

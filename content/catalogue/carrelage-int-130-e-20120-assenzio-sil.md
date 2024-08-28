@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 E 20120 ASSENZIO SIL
-
-undefined

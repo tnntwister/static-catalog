@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 AA 3060 IVORY RONDINE
-
-undefined

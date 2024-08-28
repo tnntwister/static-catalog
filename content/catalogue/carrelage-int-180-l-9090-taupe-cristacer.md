@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 L 9090 TAUPE CRISTACER
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 430 C 8080 WHITE RAK
-
-undefined

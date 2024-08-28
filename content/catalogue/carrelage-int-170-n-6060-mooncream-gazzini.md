@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 N 6060 MOON CREAM GAZZINI 
-
-undefined

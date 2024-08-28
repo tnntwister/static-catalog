@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 A 6060 GRAY TAU CERAMICA
-
-undefined

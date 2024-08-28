@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 AA 6060 BLUE  ECOCERAMIC
-
-undefined

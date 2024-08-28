@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 300 C 20120 LARICE SICHENIA 
-
-undefined

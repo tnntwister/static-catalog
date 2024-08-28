@@ -1,3 +1,0 @@
-##  PLINTHE  INT  100 B 780 IVOIRE MARCA CORONA
-
-undefined

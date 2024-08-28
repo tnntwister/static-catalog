@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 120 I 3060 BEIGE RONDINE 
-
-undefined

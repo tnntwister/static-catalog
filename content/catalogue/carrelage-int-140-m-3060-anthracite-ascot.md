@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  140 M 3060 ANTHRACITE ASCOT
-
-undefined

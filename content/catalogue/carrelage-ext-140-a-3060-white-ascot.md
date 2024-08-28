@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 140 A 3060 WHITE ASCOT
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 K 6060 GOLD ECOCERAMIC
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 100 P 6060 GREY MARCA CORONA
-
-undefined

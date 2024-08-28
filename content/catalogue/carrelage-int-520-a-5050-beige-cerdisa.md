@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 520 A 5050 BEIGE CERDISA
-
-undefined

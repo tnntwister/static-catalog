@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 100 J 8080 TUFO MARCA CORONA
-
-undefined

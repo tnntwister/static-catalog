@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  150 K 4590 WHITE ARPA
-
-undefined

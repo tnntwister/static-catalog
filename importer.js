@@ -59,7 +59,7 @@ const csvStream = fs.createReadStream(inputCsvFile, { encoding: 'utf8' })
         + row['FOURNISSEUR'].toLowerCase().replace(/'/g, '').replace(/ /g, '')
         + '.md';
 
-        createMarkdownFile(productFilename, createProductContent(row));
+        // createMarkdownFile(productFilename, createProductContent(row));
 
         rowIndex++;
     })

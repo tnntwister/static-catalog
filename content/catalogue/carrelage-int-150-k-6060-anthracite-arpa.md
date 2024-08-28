@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  150 K 6060 ANTHRACITE ARPA
-
-undefined

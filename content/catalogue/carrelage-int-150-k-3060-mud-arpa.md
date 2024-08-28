@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  150 K 3060 MUD ARPA
-
-undefined

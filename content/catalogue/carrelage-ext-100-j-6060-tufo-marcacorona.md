@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 100 J 6060 TUFO MARCA CORONA
-
-undefined

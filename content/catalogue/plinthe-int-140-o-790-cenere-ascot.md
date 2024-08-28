@@ -1,3 +1,0 @@
-##  PLINTHE  INT  140 O 790 CENERE ASCOT
-
-undefined

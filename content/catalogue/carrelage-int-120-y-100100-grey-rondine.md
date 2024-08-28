@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 120 Y 100100 GREY RONDINE
-
-undefined

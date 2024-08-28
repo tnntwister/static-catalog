@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  130 O 9090 SHELL SIL
-
-undefined

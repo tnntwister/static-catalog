@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 W 26180 DARK RONDINE
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 110 I 20120 NOCCIOLA MODA
-
-undefined

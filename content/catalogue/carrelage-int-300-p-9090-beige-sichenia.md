@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 300 P 9090 BEIGE SICHENIA
-
-undefined

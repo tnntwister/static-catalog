@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 F 9090 GRIS ECOCERAMIC
-
-undefined

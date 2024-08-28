@@ -1,3 +1,0 @@
-##  PLINTHE  INT 100 I 760 GRAFITE MARCA CORONA
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  180 C 3060 CENERE CRISTACER
-
-undefined

@@ -1,3 +1,0 @@
-##  PLINTHE  INT 100 G 760 CAL  ORA FINO MARCA CORONA
-
-undefined

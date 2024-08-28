@@ -1,3 +1,0 @@
-##  PLINTHE  INT 350 C 760 GRIGIO ANTICA
-
-undefined

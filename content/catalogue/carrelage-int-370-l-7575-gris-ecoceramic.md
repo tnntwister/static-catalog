@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 L 7575 GRIS ECOCERAMIC
-
-undefined

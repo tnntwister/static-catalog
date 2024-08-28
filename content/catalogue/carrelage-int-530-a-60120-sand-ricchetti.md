@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 530 A 60120 SAND RICCHETTI
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 Q 6090 ARGILLA SIL
-
-undefined

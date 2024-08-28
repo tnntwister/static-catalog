@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 190 M 7575 GOLD TAU CERAMICA
-
-undefined

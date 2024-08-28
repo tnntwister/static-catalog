@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 I 9090 BEIGE CRISTACER
-
-undefined

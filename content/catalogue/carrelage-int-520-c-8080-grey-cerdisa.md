@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 520 C 8080 GREY CERDISA
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 350 P 6060 FERRO ANTICA
-
-undefined

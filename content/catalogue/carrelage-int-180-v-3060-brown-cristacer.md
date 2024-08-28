@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 V 3060 BROWN CRISTACER
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 430 D 60120 LIGHT GREY RAK
-
-undefined

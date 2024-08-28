@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 X 4080 WHITE RONDINE
-
-undefined

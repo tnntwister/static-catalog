@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  110 C 6060 GRAPHITE MODA
-
-undefined

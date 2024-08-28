@@ -1,3 +1,0 @@
-##  PLINTHE  INT  170 B 760 GREY GAZZINI
-
-undefined

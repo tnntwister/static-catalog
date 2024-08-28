@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 Q 6060 GESSO SIL
-
-undefined

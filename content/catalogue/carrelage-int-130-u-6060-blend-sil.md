@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 U 6060 BLEND SIL
-
-undefined

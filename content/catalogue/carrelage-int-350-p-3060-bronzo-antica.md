@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 350 P 3060 BRONZO ANTICA
-
-undefined

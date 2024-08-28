@@ -1,3 +1,0 @@
-##  PLINTHE  INT 180 I 860 GRIS CRISTACER
-
-undefined

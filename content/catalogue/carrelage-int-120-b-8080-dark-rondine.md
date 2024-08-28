@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  120 B 8080 DARK RONDINE
-
-undefined

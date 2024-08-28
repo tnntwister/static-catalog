@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 M 6060 GREY CRISTACER
-
-undefined

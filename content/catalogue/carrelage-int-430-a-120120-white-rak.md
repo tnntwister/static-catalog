@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 430 A 120120 WHITE RAK
-
-undefined

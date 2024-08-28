@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 U 6060 LIGHT SIL
-
-undefined

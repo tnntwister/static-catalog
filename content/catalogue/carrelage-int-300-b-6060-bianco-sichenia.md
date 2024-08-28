@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 300 B 6060 BIANCO SICHENIA 
-
-undefined

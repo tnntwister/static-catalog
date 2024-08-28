@@ -1,3 +1,0 @@
-##  MOSAIC  INT  120 B 3030 ICE RONDINE
-
-undefined

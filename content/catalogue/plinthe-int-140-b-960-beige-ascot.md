@@ -1,3 +1,0 @@
-##  PLINTHE  INT  140 B 960 BEIGE ASCOT
-
-undefined

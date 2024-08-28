@@ -1,3 +1,0 @@
-##  PLINTHE  INT  100 B 760 SILVER MARCA CORONA
-
-undefined

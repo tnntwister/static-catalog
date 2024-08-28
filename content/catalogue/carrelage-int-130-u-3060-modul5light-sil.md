@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 U 3060 Modul 5 LIGHT SIL
-
-undefined

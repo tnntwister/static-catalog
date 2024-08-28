@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  180 E 60120 TAUPE CRISTACER
-
-undefined

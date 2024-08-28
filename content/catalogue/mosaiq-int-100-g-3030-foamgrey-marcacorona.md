@@ -1,3 +1,0 @@
-##  MOSAIQ  INT 100 G 3030 FOAM GREY MARCA CORONA
-
-undefined

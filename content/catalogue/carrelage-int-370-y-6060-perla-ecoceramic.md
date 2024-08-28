@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  370 Y 6060 PERLA ECOCERAMIC
-
-undefined

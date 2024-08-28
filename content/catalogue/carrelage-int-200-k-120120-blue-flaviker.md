@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 200 K 120120 BLUE FLAVIKER
-
-undefined

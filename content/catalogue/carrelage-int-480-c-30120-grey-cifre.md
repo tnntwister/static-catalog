@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 480 C 30120 GREY CIFRE
-
-undefined

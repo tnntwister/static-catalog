@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 530 D 6060 JURA RICCHETTI
-
-undefined

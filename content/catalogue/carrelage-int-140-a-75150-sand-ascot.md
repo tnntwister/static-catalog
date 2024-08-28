@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  140 A 75150 SAND ASCOT
-
-undefined

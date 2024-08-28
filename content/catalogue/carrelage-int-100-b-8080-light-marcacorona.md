@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  100 B 8080 LIGHT MARCA CORONA
-
-undefined

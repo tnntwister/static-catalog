@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  140 B 60120 BEIGE ASCOT
-
-undefined

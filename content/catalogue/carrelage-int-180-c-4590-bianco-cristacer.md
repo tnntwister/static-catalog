@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  180 C 4590 BIANCO CRISTACER
-
-undefined

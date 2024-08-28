@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 120 W 24120 DARK RONDINE
-
-undefined

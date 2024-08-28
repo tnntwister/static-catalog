@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 130 O 120120 SANDAL SIL
-
-undefined

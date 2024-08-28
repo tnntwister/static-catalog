@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 S 3360 BEIGE CRISTACER
-
-undefined

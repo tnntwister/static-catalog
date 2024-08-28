@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 130 H 6060 ANTHRACITE SIL
-
-undefined

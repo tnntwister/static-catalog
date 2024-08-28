@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 300 P 60120 BEIGE SICHENIA
-
-undefined

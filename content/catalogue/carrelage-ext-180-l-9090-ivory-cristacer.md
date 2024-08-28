@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 L 9090 IVORY CRISTACER
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  140 K 20120 OLMO ASCOT
-
-undefined

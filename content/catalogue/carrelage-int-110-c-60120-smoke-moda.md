@@ -1,3 +1,0 @@
-##  CARRELAGE  INT  110 C 60120 SMOKE MODA
-
-undefined

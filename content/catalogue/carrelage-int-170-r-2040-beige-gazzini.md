@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 R 2040 BEIGE GAZZINI
-
-undefined

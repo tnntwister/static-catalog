@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 140 N 6060 PEWTER ASCOT
-
-undefined

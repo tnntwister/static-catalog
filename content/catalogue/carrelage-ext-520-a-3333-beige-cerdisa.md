@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 520 A 3333 BEIGE CERDISA
-
-undefined

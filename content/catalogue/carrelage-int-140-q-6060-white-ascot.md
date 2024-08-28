@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 140 Q 6060 WHITE ASCOT
-
-undefined

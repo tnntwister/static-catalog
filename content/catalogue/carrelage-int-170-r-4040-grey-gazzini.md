@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 170 R 4040 GREY GAZZINI
-
-undefined

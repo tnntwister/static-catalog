@@ -1,3 +1,0 @@
-##  PLINTHE  INT 100 J 760 CAOLINO MARCA CORONA
-
-undefined

@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 370 X 3060 GOLD ECOCERAMIC
-
-undefined

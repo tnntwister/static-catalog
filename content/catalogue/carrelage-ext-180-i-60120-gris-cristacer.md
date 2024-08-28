@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 180 I 60120 GRIS CRISTACER
-
-undefined

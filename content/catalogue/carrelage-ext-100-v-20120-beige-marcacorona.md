@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 100 V 20120 BEIGE  MARCA CORONA 
-
-undefined

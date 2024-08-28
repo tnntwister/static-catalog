@@ -1,3 +1,0 @@
-##  PLINTHE  INT  120 B 75600 WHITE RONDINE
-
-undefined

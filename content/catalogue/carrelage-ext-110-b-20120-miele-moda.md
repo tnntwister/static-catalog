@@ -1,3 +1,0 @@
-##  CARRELAGE  EXT 110 B 20120 MIELE MODA
-
-undefined

@@ -1,3 +1,0 @@
-##  PLINTHE  INT 170 Q 560 TAUPE GAZZINI
-
-undefined

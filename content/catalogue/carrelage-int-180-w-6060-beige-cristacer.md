@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 180 W 6060 BEIGE CRISTACER
-
-undefined

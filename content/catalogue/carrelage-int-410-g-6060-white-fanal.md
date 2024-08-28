@@ -1,3 +1,0 @@
-##  CARRELAGE  INT 410 G 6060 WHITE FANAL
-
-undefined

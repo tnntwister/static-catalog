@@ -1,3 +1,0 @@
-##  PLINTHE  INT 180 O O8120 SENA CRISTACER
-
-undefined
